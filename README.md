@@ -1,4 +1,4 @@
-# Todo list:
+# Program of the experience:
 
 ### 1) Noise analysis
 Take one run with external random trigger and HV OFF, look at the rate per channel, and identify noisy channels. 

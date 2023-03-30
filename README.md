@@ -58,6 +58,8 @@ Simulate the detector setup in geant4
 
 Study the gemetrical acceptance
 
+Compare the fraction of delta-rays in MC and data
+
 If there is time: develop the digitization and compare to data 
 
 
